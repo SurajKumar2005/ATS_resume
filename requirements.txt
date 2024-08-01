@@ -1,0 +1,15 @@
+streamlit
+langchain
+google.generativeai
+python-dotenv
+langchain-community
+langchain_google_genai
+PyPDF2
+
+# pip install python-dotenv  
+# pip install streamlit  
+# pip install google-generative-ai  
+# pip install langchain  
+# pip install langchain-google-genai  
+# pip install langchain-community  
+# pip install PyPDF2
