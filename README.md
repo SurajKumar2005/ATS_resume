@@ -4,7 +4,7 @@ The Applicant Tracking System (ATS) is an advanced tool powered by the Google Ge
 
 ## Project Files
 
-- **`app.py`**: The main application file that runs the ATS.
+- **`ATS.py`**: The main application file that runs the ATS.
 - **`requirements.txt`**: Lists all the dependencies and libraries required to run the project.
 
 ## LinkedIn Post
