@@ -1,20 +1,19 @@
-# ATS_resume
-skillcred
+# Applicant Tracking System (ATS)
 
-PDF Analyzer Bot is an innovative tool designed to leverage the Gemini API and LangChain for advanced document analysis capabilities. This project facilitates advanced parsing, insightful analysis, and streamlined data extraction from PDF documents.
+The Applicant Tracking System (ATS) is an advanced tool powered by the Google Gemini Pro Vision API. This project is designed to analyze resumes, compare them with job descriptions, and provide actionable suggestions for enhancing resumes to better match job requirements.
 
 ## Project Files
 
-- **`app.py`**: The main application file that runs the PDF Analyzer Bot.
+- **`app.py`**: The main application file that runs the ATS.
 - **`requirements.txt`**: Lists all the dependencies and libraries required to run the project.
 
 ## LinkedIn Post
 
-For more information and updates, check out our LinkedIn post: [PDF Analyzer Bot LinkedIn Post](https://www.linkedin.com/posts/suraj-kumar-362360289_ai-machinelearning-googlegemini-activity-7224672538549796864-ZmbR?utm_source=share&utm_medium=member_desktop)
+For more information and updates, check out our LinkedIn post: [ATS LinkedIn Post](https://www.linkedin.com/posts/suraj-kumar-362360289_ai-machinelearning-googlegemini-activity-7224672538549796864-ZmbR?utm_source=share&utm_medium=member_desktop)
 
 ## Installation
 
-To get started with the PDF Analyzer Bot, follow these steps:
+To get started with the ATS, follow these steps:
 
 1. **Clone the repository:**
     ```bash
@@ -35,7 +34,7 @@ To get started with the PDF Analyzer Bot, follow these steps:
 
 ## Running the Application
 
-After installing the required libraries, start the application using the following command:
+Once you have installed all the required libraries, start the application using:
 
 ```bash
 python -m streamlit run app.py
